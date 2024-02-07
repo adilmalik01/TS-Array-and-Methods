@@ -1,1 +1,3 @@
-console.log("initial repo");
+console.log("intialize reposatiry in github");
+console.log("intialize reposatiry in github");
+console.log("intialize reposatiry in github");
